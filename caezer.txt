@@ -9,8 +9,9 @@ thou art the ruin of the noblest man
 Woe to the hand s that shad this costly blood
 Over thy wounds now do I phophesy
 
-add another line
+d another line
 o\
 
-are ndoing branch now
+we are ndoing branch now
 doing something in master
+we are doing merge conflicts now k
