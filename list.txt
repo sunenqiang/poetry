@@ -1,0 +1,11 @@
+total 40
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Desktop
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Documents
+drwxr-x--- 5 enqiangs users 4096 Apr  8 13:55 Downloads
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Music
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Pictures
+drwxrwxrwx 2 enqiangs users 4096 Feb 25 12:44 Public
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Templates
+drwxr-x--- 2 enqiangs users 4096 Feb 25 12:44 Videos
+drwxr-x--- 8 enqiangs users 4096 May 13 09:24 project
+-rw-r----- 1 enqiangs users 1206 Jul 21  2010 qcom_signing_key.gpg
