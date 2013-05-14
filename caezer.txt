@@ -16,3 +16,4 @@ we are ndoing branch now
 doing something in master
 we are doing merge conflicts now k
 rebase
+with Ate from his side 
